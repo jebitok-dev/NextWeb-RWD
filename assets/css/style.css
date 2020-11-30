@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+ul > li {
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+.nav1 > li > a {
+    float: left;
+    padding: 14px 16px;
+    /* justify-content: space-between; */
+}
+
+.nav2 > li > a {
+    float: right;
+    padding: 14px 16px;
+    /* justify-content: space-between; */
+}
+
+/* .nav1 > li > .active {
+    text-decoration-color: #ffffff;
+} */
+
+ul > li > a:link {
+    text-decoration: none;
+    color: gray;
+}
+
+.header > div > li {
+    list-style: none;
+    /* justify-content: space-around; */
+}
+
+div > li > a {
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.header > div > li {
+    display: inline;
+}
+
+.header {
+    display: inline-block;
+}
