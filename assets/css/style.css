@@ -33,7 +33,7 @@ ul > li > a:link {
     color: gray;
 }
 
-.header > div > li {
+.top-nav > div > li {
     list-style: none;
     /* justify-content: space-around; */
 }
@@ -44,10 +44,10 @@ div > li > a {
     text-decoration: none;
 }
 
-.header > div > li {
+.top-nav > div > li {
     display: inline;
 }
 
-.header {
+.top-nav {
     display: inline-block;
 }
