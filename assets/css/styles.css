@@ -60,27 +60,55 @@
 /**End nav bar*/
 
 /**News Section*/
-.news-section {
-  display: flex;
-  flex-wrap: wrap;
+.title-news {
+  font-size: 28px;
+}
+
+.latest-news {
+  padding-top: 25px;
+  margin-bottom: 45px;
+}
+
+.latest-img {
+  float: left;
+  width: 75px;
+  height: 75px;
+}
+
+.latest-art-img {
+  display: block;
+  background-size: cover;
+  background-position: 50%;
   height: 100%;
-}
-
-.news-item {
-  flex: 1 0 21%; /* explanation below */
-  margin: 5px;
-  height: 100px;
-}
-
-.news-item img {
   width: 100%;
-  height: 100px;
 }
 
-.grey {
-  display: flex;
-  color: grey;
+.latest-articles {
+  clear: left;
+  margin-bottom: 1.5em;
 }
+
+.img1 {
+  background-image: url(../img/periscopeiphone.jpeg);
+}
+
+.img2 {
+  background-image: url(../img/spookyspace.jpeg);
+}
+.img3 {
+  background-image: url(../img/covidimpact.jpeg);
+}
+
+.img4 {
+  background-image: url(../img/cybermonday.jpeg);
+}
+.img5 {
+  background-image: url(../img/jacksquare.jpeg);
+}
+.img6 {
+  background-image: url(../img/googleanalt.jpeg);
+}
+
 /**End news section*/
 
 a {
@@ -212,84 +240,6 @@ footer ul li {
   padding-right: 0;
 }
 
-.title-news {
-  font-size: 28px;
-}
-
-.latest-news {
-  padding-top: 25px;
-  margin-bottom: 45px;
-}
-
-.latest-img {
-  float: left;
-  width: 75px;
-  height: 75px;
-}
-
-.latest-art-img {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/04/windows-xp-boot-e1601042921776.png);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
-.latest-art-img1 {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Metal-Gear-Solid-516x270.jpg);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
-.latest-art-img2 {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/TNW-Dotted-Sign-540x270.jpg);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
-.latest-art-img3 {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/27162728588_a488cbc4f9_k-405x270.jpg);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
-.latest-art-img4 {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/1-26-516x270.jpg);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
-.latest-art-img5 {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/Screenshot-2020-09-25-at-12.50.26-540x250.png);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
-.latest-art-img6 {
-  display: block;
-  background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/zeroaavia-plane-hydrogen-flight-ev-travel-airplane-aerospace-480x270.jpg);
-  background-size: cover;
-  background-position: 50%;
-  height: 100%;
-  width: 100%;
-}
-
 .latest-cont {
   padding-left: 5.5em;
   font-size: 14px;
@@ -308,11 +258,6 @@ footer ul li {
 
 .discount {
   font-size: 16px;
-}
-
-.latest-articles {
-  clear: left;
-  margin-bottom: 1.5em;
 }
 
 .clear-float {
