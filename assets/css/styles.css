@@ -5,7 +5,6 @@
   font-family: sans-serif;
 }
 
-/**Start nav bar*/
 .navbar {
   position: fixed;
   top: 0;
@@ -75,9 +74,6 @@ footer ul li {
   width: 106px;
   padding: 15px;
 }
-/**End nav bar*/
-
-/**News Section*/
 .title-news {
   font-size: 28px;
 }
@@ -126,8 +122,6 @@ footer ul li {
 .img6 {
   background-image: url(../img/googleanalt.jpeg);
 }
-
-/**End news section*/
 
 a {
   text-decoration: none;
