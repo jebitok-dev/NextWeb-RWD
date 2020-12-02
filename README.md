@@ -4,7 +4,7 @@
 
 > Next-Web clone project using the Responsive Web Design Concepts.
 
-<!-- ![screenshot](./app_screenshot.png) -->
+![screenshot](./screenshot.png)
 
 <!-- Additional description about the project and its features. -->
 
