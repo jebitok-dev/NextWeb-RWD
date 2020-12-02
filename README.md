@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jebitok-dev.github.io/NextWeb-RWD/)
 
 
 ## Getting Started
