@@ -23,6 +23,24 @@
   align-items: center;
 }
 
+footer ul li {
+  display: inline;
+  margin: 0 0.2em;
+}
+
+.soc-icons li {
+  font-size: 16px;
+  color: white;
+  background-color: #333;
+  border-radius: 50%;
+  padding: 0.5rem;
+}
+
+.category-list li {
+  border-bottom: 1px solid lightgray;
+  padding: 1rem 0;
+}
+
 .topnav ul li {
   display: inline;
   padding-left: 10px;
@@ -135,24 +153,6 @@ ul {
 
 .flex {
   display: flex;
-}
-
-footer ul li {
-  display: inline;
-  margin: 0 0.2em;
-}
-
-.soc-icons li {
-  font-size: 16px;
-  color: white;
-  background-color: #333;
-  border-radius: 50%;
-  padding: 0.5rem;
-}
-
-.category-list li {
-  border-bottom: 1px solid lightgray;
-  padding: 1rem 0;
 }
 
 .tnw-conf {
