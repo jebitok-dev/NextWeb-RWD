@@ -193,7 +193,8 @@ ul {
 }
 
 .world-top-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -202,12 +203,14 @@ ul {
 }
 
 .cover1 {
-  background-image: linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0.4)),
+  background-image:
+    linear-gradient(to top, rgb(0, 0, 0), rgba(0, 0, 0, 0.4)),
     url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg);
 }
 
 .cover2 {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -414,7 +417,8 @@ footer {
 }
 
 .hf-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -423,7 +427,8 @@ footer {
 }
 
 .apps-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -432,7 +437,8 @@ footer {
 }
 
 .gear-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -441,15 +447,18 @@ footer {
 }
 
 .tech-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.4)),
+      rgba(0, 0, 0, 0.4)
+    ),
     url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-368x276.jpg);
 }
 
 .creative-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -458,7 +467,8 @@ footer {
 }
 
 .podium-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -467,7 +477,8 @@ footer {
 }
 
 .insights-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -476,7 +487,8 @@ footer {
 }
 
 .launch-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
@@ -485,7 +497,8 @@ footer {
 }
 
 .distract-img {
-  background-image: linear-gradient(
+  background-image:
+    linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
       rgba(0, 0, 0, 0.4)
