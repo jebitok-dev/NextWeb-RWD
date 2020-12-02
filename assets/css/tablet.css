@@ -1,4 +1,5 @@
 /* Navbar */
+
 .ham-menu,
 .nav-hid {
   display: none;
@@ -24,6 +25,7 @@
 }
 
 /* Top articles */
+
 .top-articles {
   display: flex;
   justify-content: space-between;
@@ -51,6 +53,7 @@
 }
 
 /* Latest news */
+
 .latest-articles {
   min-height: 150px;
 }
@@ -73,6 +76,7 @@
 }
 
 /* funding section */
+
 .companies-pad {
   display: flex;
   justify-content: space-evenly;
@@ -91,6 +95,7 @@
 }
 
 /* Categories */
+
 .categories {
   display: flex;
   flex-flow: row wrap;
@@ -113,7 +118,6 @@
   .funding-list ul li {
     display: inline-block;
   }
-
   .divisor {
     display: inline-block;
     padding: 0 10px;
