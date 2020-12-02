@@ -74,6 +74,7 @@ footer ul li {
   width: 106px;
   padding: 15px;
 }
+
 .title-news {
   font-size: 28px;
 }
@@ -109,6 +110,7 @@ footer ul li {
 .img2 {
   background-image: url(../img/spookyspace.jpeg);
 }
+
 .img3 {
   background-image: url(../img/covidimpact.jpeg);
 }
@@ -116,9 +118,11 @@ footer ul li {
 .img4 {
   background-image: url(../img/cybermonday.jpeg);
 }
+
 .img5 {
   background-image: url(../img/jacksquare.jpeg);
 }
+
 .img6 {
   background-image: url(../img/googleanalt.jpeg);
 }
@@ -440,8 +444,7 @@ footer {
   background-image: linear-gradient(
       to top,
       rgba(0, 0, 0, 1),
-      rgba(0, 0, 0, 0.4)
-    ),
+      rgba(0, 0, 0, 0.4)),
     url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/09/racistAIfeat-368x276.jpg);
 }
 
