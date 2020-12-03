@@ -2,21 +2,23 @@
 
 # NextWeb-RWD
 
-> Next-Web clone project using the Responsive Web Design Concepts.
+> The Next-Web clone project using the Responsive Web Design Concepts.
 
-<!-- ![screenshot](./app_screenshot.png) -->
+![screenshot](./screenshot-tnw.png)
 
 <!-- Additional description about the project and its features. -->
+We implemented the project using HTML5 and CSS3 media queries, positioning, grid and flex together with background images among other techniques. 
 
 ## Built With
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - linters 
+
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jebitok-dev.github.io/NextWeb-RWD/)
 
 
 ## Getting Started
